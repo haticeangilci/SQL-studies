@@ -1,4 +1,3 @@
----------------------------1.STUDY--------------------
 ---------------------------MY FIRST STUDY-------------------
 
 --Veri tabanı oluşturuldu.//Database has been created.
